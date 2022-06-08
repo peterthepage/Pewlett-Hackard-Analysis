@@ -12,4 +12,4 @@ Once those areas were discovered, the next goal was to find who would be eligibl
   * In total senior staff is losing over 50,000 employees in the next couple of years. One rung below that engineers will lose over 9000 and staff over 7500. 
   ![pic1](https://github.com/peterthepage/Pewlett-Hackard-Analysis/blob/main/Analysis1.PNG)
   * There are enough senior employees to mentor the next generation. Right now there will still be over 100,000 Engineers and nearly 100,000 staff ready to step in and fill leadership roles after retirements. The chart below shows total staff positions across the entire company. -pic2
-![pic2](https://github.com/peterthepage/Pewlett-Hackard-Analysis/blob/main/Analysis1.PNG)
+![pic2](https://github.com/peterthepage/Pewlett-Hackard-Analysis/blob/main/Analysis2.PNG)
