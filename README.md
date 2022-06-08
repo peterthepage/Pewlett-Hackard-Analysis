@@ -4,7 +4,8 @@ The purpose of this project was to get a better idea of how many employees could
 Once those areas were discovered, the next goal was to find who would be eligible to be mentored to become the next generation of senior management.
 ## Results
   * Overall Senior Engineers and Senior Staff will be the most affected by retirement over the next couple years.
-  * The second most affected will be Engineers and regular Staff. https://github.com/peterthepage/Pewlett-Hackard-Analysis/blob/main/Analysis1.PNG
+  * The second most affected will be Engineers and regular Staff. 
+  !(https://github.com/peterthepage/Pewlett-Hackard-Analysis/blob/main/Analysis1.PNG)
   * Many of those who are about to retire have been in the company for quite some time. They came up as having multiple jobs throughout their time with the company.
   * A possible way to retain more employees would be pushing promotions quicker for those who are worthy. It appears many of these employees stayed because they were able to achieve senior positions quickly in their time with the company.
 ## Summary
