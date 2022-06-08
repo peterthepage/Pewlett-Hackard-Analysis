@@ -9,5 +9,7 @@ Once those areas were discovered, the next goal was to find who would be eligibl
   * Many of those who are about to retire have been in the company for quite some time. They came up as having multiple jobs throughout their time with the company.
   * A possible way to retain more employees would be pushing promotions quicker for those who are worthy. It appears many of these employees stayed because they were able to achieve senior positions quickly in their time with the company.
 ## Summary
-  * In total senior staff is losing over 50,000 employees in the next couple of years. One rung below that engineers will lose over 9000 and staff over 7500. ---pic1
+  * In total senior staff is losing over 50,000 employees in the next couple of years. One rung below that engineers will lose over 9000 and staff over 7500. 
+  ![pic1](https://github.com/peterthepage/Pewlett-Hackard-Analysis/blob/main/Analysis1.PNG)
   * There are enough senior employees to mentor the next generation. Right now there will still be over 100,000 Engineers and nearly 100,000 staff ready to step in and fill leadership roles after retirements. The chart below shows total staff positions across the entire company. -pic2
+![pic2](https://github.com/peterthepage/Pewlett-Hackard-Analysis/blob/main/Analysis1.PNG)
